@@ -1,1 +1,1 @@
-aflplusplus/aflplusplus:latest
+aflplusplus/aflplusplus
